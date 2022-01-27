@@ -27,9 +27,11 @@ Etape 2 : Lancer Polaris v1.1  python3 polaris.py
 
 Ensuite suivez les indications proposer par Polaris...  
 
-(Ex: Username : hfibdghisngigsg) 
+(Ex: Username : nom d'utilisateur de votre choix) 
 
-(Ex: Password : sifnisfisfihsfs) (Ex: Retype Password : sifnisfisfihsfs)  
+(Ex: Password : mot de passe de votre choix) 
+
+(Ex: Retype Password : mot de passe taper au dessus)  
 
 Etape 3 : Une fois l'etape 2 compléter copier coller l'addresse temporaire  générer par Polaris dans un nouvel onglet de votre navigateur puis attendez le message de confirmation en vert et fermez l'onglet  
 
