@@ -10,11 +10,17 @@ Comment l'utiliser ?
 Etape 1 : Installer les modules complémentaires  
 
 pip3 install email 
+
 pip3 install selenium 
+
 pip3 install mailtm 
+
 pip3 install win10toast 
+
 pip3 install subprocess 
+
 pip3 install time 
+
 pip3 install os  
 
 Etape 2 : Lancer Polaris v1.1  python3 polaris.py  Ensuite suivez les indications proposer par Polaris...  (Ex: Username : hfibdghisngigsg) (Ex: Password : sifnisfisfihsfs) (Ex: Retype Password : sifnisfisfihsfs)  
