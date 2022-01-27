@@ -35,7 +35,9 @@ Etape 3 : Une fois l'etape 2 compléter copier coller l'addresse temporaire  gé
 
 Etape 4 : Sur votre premier onglet appuyez sur login pour vous connecter puis tadaaadadadaaaaa un nouveau compte shodan générer sans avoir eu besoin  de créer un compte google pour une simple email !!  
 
-(PS : Vous pouvez générer des comptes shodan à l'infini grâce à Polaris)  
+Vous pouvez générer des comptes shodan à l'infini grâce à Polaris !
+
+(PS: En cas d'oublie de votre mot de passe ou de votre identifiant, Polaris stocke automatiquement l'username et le mot de passe dans le fichier login.txt)
 
 Amusez-vous bien !! 
 By Ell0n#0070
