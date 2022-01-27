@@ -37,7 +37,8 @@ Etape 4 : Sur votre premier onglet appuyez sur login pour vous connecter puis ta
 
 Vous pouvez générer des comptes shodan à l'infini grâce à Polaris !
 
-(PS: En cas d'oublie de votre mot de passe ou de votre identifiant, Polaris stocke automatiquement l'username et le mot de passe dans le fichier login.txt)
+(PS: En cas d'oublie de votre mot de passe ou de votre identifiant, Polaris stocke automatiquement l'username et le mot de passe dans le fichier login.txt) 
+Attention : Les identifiants enregistrés dans logins.txt sont écraser et remplacer à chaque génération de compte !
 
 Amusez-vous bien !! 
 By Ell0n#0070
