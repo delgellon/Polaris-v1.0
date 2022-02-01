@@ -38,7 +38,9 @@ Important : Installer la version qui correspond à votre navigateur !
 
 
 --------------------------------------------
-Etape 2 : Lancer Polaris v1.1  python3 polaris.py
+Etape 2 : Lancer Polaris v1.1  
+
+python3 polaris.py
 
 Ensuite suivez les indications proposer par Polaris...  
 
